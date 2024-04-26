@@ -56,6 +56,7 @@
 ## Overview
 
 <!-- TODO: To be changed -->
+<!-- The following are just sample -->
 Description of the project in details.
 
 Guiding Question:
@@ -66,6 +67,10 @@ Guiding Question:
 
 ### Key Components
 <!-- TODO: List of Key Components -->
+<!-- The following are just sample -->
+- MultiPage Website/Single Page Website
+- Parallax transition
+- Transactional
 
 ### Technology
 <!-- TODO: List of Technology Used -->
