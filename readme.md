@@ -1,4 +1,4 @@
-<a name="readme-top"/>
+<a name="readme-top">
 
 <br/>
 
@@ -79,7 +79,7 @@ Guiding Question:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules and Principles
-1. Always use ***WD-*** in the Title of the Project for the Subject
+1. Always use ***WD-*** in the front of the Title of the Project for the Subject followed by your custom naming.
 2. Do not rename any .html files; always use 'index.html' as the filename.
 3. File Structure to follow
 
@@ -88,20 +88,20 @@ WD-ProjectName
 └─ assets
 |   └─ css
 |   |   └─ style.css
-|   └─ js
-|   |   └─ script.js
 |   └─ img
-|       └─ fileWith.jpeg/.jpg/.webp/.png
+|   |   └─ fileWith.jpeg/.jpg/.webp/.png
+|   └─ js
+|       └─ script.js
 └─ pages
 |  └─ pageName
-|     └─ index.html
 |     └─ assets
-|        └─ css
-|        |  └─ style.css
-|        └─ js
-|        |  └─ script.js
-|        └─ img
-|           └─ fileWith.jpeg/.jpg/.webp/.png
+|     |  └─ css
+|     |  |  └─ style.css
+|     |  └─ img
+|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
+|     |  └─ js
+|     |     └─ script.js
+|     └─ index.html
 └─ index.html
 └─ readme.md
 ```
