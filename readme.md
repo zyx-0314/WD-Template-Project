@@ -86,7 +86,7 @@ Guiding Question:
    - Camel case is naming format where there is no white space in separation of each words, the first word is in all lower case while the succeding words first letter are in upper followed by lower cased letters.
    - ex.: buttonAnimatedStyle.css
 5. Use only `External CSS`.
-6. Naming of Pages folder names are a must, and relates to what it is doing or data it holding.
+6. Renaming of Pages folder names are a must, and relates to what it is doing or data it holding.
 7. File Structure to follow below.
 
 ```
